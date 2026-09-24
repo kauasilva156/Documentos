@@ -14,15 +14,15 @@ Defina um tema específico, relevante e viável para o artigo de revisão biblio
 
 ### Área geral
 
-`[Sustentabilidade e tecnologia (TI Verde]`
+`[Sustentabilidade e tecnologia (TI Verde)]`
 
 ### Tema delimitado
 
-`[Escreva o tema específico em uma ou duas frases.]`
+`[Os Efeitos colaterais do uso excessivo da tecnologia.]`
 
 ### Do tema amplo ao específico
 
-- Tema amplo: `[preencher]`
+- Tema amplo: `[Sustentabilidade e tecnologia (TI Verde)]`
 - Objeto estudado: `[preencher]`
 - Contexto ou aplicação: `[preencher]`
 - Aspecto que será analisado: `[preencher]`
