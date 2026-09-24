@@ -18,7 +18,7 @@ Preencha os arquivos na ordem indicada. Não apague os títulos nem as perguntas
 - Curso e disciplina: `[Analise e desenvolvimento de sistemas]`
 - Professor ou orientador: `[Isabella Luiza]`
 - Grupo: `[preencher]`
-- Integrantes: `[Nicolas Henrique Santana Caetano - Kaua Silva]`
+- Integrantes: `[Nicolas Henrique Santana Caetano - Kauã Silva Mattoso]`
 - Data de início: `[22/09/2026]`
 
 ## Regra de entrega
