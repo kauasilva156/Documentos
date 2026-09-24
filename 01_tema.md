@@ -14,7 +14,7 @@ Defina um tema específico, relevante e viável para o artigo de revisão biblio
 
 ### Área geral
 
-`[Qual é a área ampla de interesse?]`
+`[Sustentabilidade e tecnologia (TI Verde]`
 
 ### Tema delimitado
 
