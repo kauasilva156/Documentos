@@ -10,11 +10,11 @@ Transforme o tema em uma pergunta clara, específica e respondível por meio da 
 
 ## Pergunta de pesquisa
 
-`[Escreva uma única pergunta.]`
+`[Onde vamos parar com o uso excessivo de componentes para alimentar database de IA]`
 
 ## Verificação
 
-- O que se deseja descobrir ou compreender? `[preencher]`
+- O que se deseja descobrir ou compreender? `[Qual a etica na produção da IA, até onde ela e benefica]`
 - Qual é o objeto da pergunta? `[preencher]`
 - Qual é o contexto ou recorte? `[preencher]`
 - A pergunta pode ser respondida por artigos científicos? `[Sim/Não. Justifique.]`
