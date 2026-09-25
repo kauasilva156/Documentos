@@ -15,10 +15,10 @@ Transforme o tema em uma pergunta clara, específica e respondível por meio da 
 ## Verificação
 
 - O que se deseja descobrir ou compreender? `[Qual a etica na produção da IA, até onde ela e benefica]`
-- Qual é o objeto da pergunta? `[preencher]`
-- Qual é o contexto ou recorte? `[preencher]`
-- A pergunta pode ser respondida por artigos científicos? `[Sim/Não. Justifique.]`
-- Por que essa pergunta é relevante? `[preencher]`
+- Qual é o objeto da pergunta? `[Analisarmos o cenário futuro, e entendermos o melhor caminho]`
+- Qual é o contexto ou recorte? `[A IA vem sendo muito utilizada, isso requer muito recurso natural]`
+- A pergunta pode ser respondida por artigos científicos? `[Sim, vemos no artigo Energy and AI, que a eletricidade vem sendo muito utilizada e assim gastando muito recurso natural.]`
+- Por que essa pergunta é relevante? `[Para debatermos sobre o uso, e assim criando um futuro sustentavel]`
 
 ## Produto da etapa
 
@@ -36,4 +36,4 @@ Pergunta de pesquisa aprovada.
 
 | Integrante | Atividade realizada |
 |---|---|
-| `[nome]` | `[preencher]` |
+| `[Nicolas Henrique Santana Caetano]` | `[02_problema_de_pesquisa.md]` |
