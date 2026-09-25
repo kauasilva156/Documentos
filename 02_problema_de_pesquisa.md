@@ -6,7 +6,7 @@ Transforme o tema em uma pergunta clara, específica e respondível por meio da 
 
 ## Tema aprovado
 
-`[Os Efeitos colaterais do uso excessivo da tecnologia]`
+`[Os Efeitos colaterais do uso excessivo da tecnologia no meio ambiente]`
 
 ## Pergunta de pesquisa
 
