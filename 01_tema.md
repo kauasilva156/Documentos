@@ -18,7 +18,7 @@ Defina um tema específico, relevante e viável para o artigo de revisão biblio
 
 ### Tema delimitado
 
-`[Os Efeitos colaterais do uso excessivo da tecnologia.]`
+`[Os Efeitos colaterais do uso excessivo da tecnologia no meio ambiente.]`
 
 ### Do tema amplo ao específico
 
