@@ -20,10 +20,10 @@ Compare os artigos e organize a revisão por temas ou eixos. Não produza apenas
 
 ### Eixo 1
 
-* Ideia principal: `Sustentabilidade e tecnologia (TI Verde)`
-* Evidências que serão usadas: ``
-* Comparação entre estudos: `[preencher]`
-* Ligação com o problema: `[preencher]`
+* Ideia principal: `A inteligência artificial pode contribuir para a sustentabilidade ao otimizar sistemas de energia, aumentar a eficiência e reduzir custos e emissões, embora seu próprio funcionamento demande grandes quantidades de eletricidade.`
+* Evidências que serão usadas: `Dados sobre o consumo de eletricidade dos data centers, projeções de crescimento da demanda energética e exemplos de aplicações da IA para otimização e eficiência do setor energético.`
+* Comparação entre estudos: `O relatório apresenta uma relação de dupla influência entre tecnologia e sustentabilidade: ao mesmo tempo em que a IA pode aumentar a eficiência dos sistemas energéticos, sua expansão exige maior consumo de eletricidade por parte dos data centers.`
+* Ligação com o problema: `A relação entre eficiência tecnológica e consumo energético é relevante para compreender como o avanço da inteligência artificial pode contribuir para a sustentabilidade sem ignorar os impactos ambientais decorrentes de sua infraestrutura.`
 
 ### Eixo 2
 
