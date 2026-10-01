@@ -34,7 +34,7 @@ Compare os artigos e organize a revisão por temas ou eixos. Não produza apenas
 
 ## Síntese crítica provisória
 
-`[Escreva um parágrafo indicando tendências, divergências e lacunas.]`
+`O relatório da IEA demonstra que a relação entre inteligência artificial e sustentabilidade apresenta caráter complexo. Por um lado, a IA pode contribuir para a otimização dos sistemas energéticos, aumentando a eficiência, reduzindo custos e possibilitando reduções de emissões. Por outro, o crescimento da IA exige uma infraestrutura computacional de elevado consumo energético, especialmente nos data centers. Dessa forma, a tecnologia pode atuar simultaneamente como instrumento de redução de impactos ambientais e como fonte de novas demandas energéticas. O desafio está em ampliar os benefícios proporcionados pela IA enquanto se reduzem os impactos ambientais associados à sua expansão.`
 
 ## Checklist
 
