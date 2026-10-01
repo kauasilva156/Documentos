@@ -8,11 +8,11 @@ Obrigatoriedade de três artigos com no máximo 5 anos, ou seja, de publicação
 
 ## Identificação do artigo
 
-* Referência completa: `[preencher]`
-* DOI ou URL: `[preencher]`
-* Base de origem: `[preencher]`
-* Leitor responsável: `[preencher]`
-* Data da leitura: `[dd/mm/aaaa]`
+* Referência completa: `[INTERNATIONAL ENERGY AGENCY (IEA). Energy and AI. Paris: International Energy Agency, 2025. (World Energy Outlook Special Report).]`
+* DOI ou URL: `[https://www.iea.org/reports/energy-and-ai/]`
+* Base de origem: `[International Energy Agency (IEA). Energy and AI. World Energy Outlook Special Report, 2025.]`
+* Leitor responsável: `[Kauã Silva Mattoso]`
+* Data da leitura: `[01/10/2026]`
 
 ## Fichamento
 
