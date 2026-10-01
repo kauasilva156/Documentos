@@ -24,8 +24,8 @@ Defina o objetivo geral e os objetivos específicos do artigo.
 | Elemento | Texto |
 |---|---|
 | Problema | `Recursos naturais` |
-| Objetivo geral | `Uso consciente e etico` |
-| Resultado esperado | `[O que o artigo deverá apresentar ao final?]` |
+| Objetivo geral | `Promover o uso consciente e ético dos recursos.` |
+| Resultado esperado | `Compreender o uso excessivo e buscar melhorias na eficiência e economia dos recursos naturais.` |
 
 ## Produto da etapa
 
