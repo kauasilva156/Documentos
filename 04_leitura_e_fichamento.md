@@ -18,7 +18,7 @@ Obrigatoriedade de três artigos com no máximo 5 anos, ou seja, de publicação
 
 ### Problema investigado
 
-`[preencher]`
+`[O artigo investiga as causas e as consequências do alto consumo acelerado pela Inteligência Artificial (IA), relacionado ao aumento do consumo global de energia, tendo como uma das principais causas a expansão dos data centers. Também aborda o consumo excessivo de recursos naturais e os impactos que esse crescimento pode causar no meio ambiente e na população mundial. ]`
 
 ### Objetivo do estudo
 
