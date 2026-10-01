@@ -6,7 +6,7 @@ Defina o objetivo geral e os objetivos específicos do artigo.
 
 ## Problema de pesquisa
 
-`[copie a pergunta aprovada]`
+`[Até onde pode chegar o uso de componentes para IA?]`
 
 ## Objetivo geral
 
@@ -14,17 +14,17 @@ Defina o objetivo geral e os objetivos específicos do artigo.
 
 ## Objetivos específicos
 
-1. `[preencher]`
-2. `[preencher]`
-3. `[preencher]`
-4. `[opcional]`
+1. `[Ressaltar a importância da conscientização global sobre o uso responsável dos recursos naturais.]`
+2. `[Compreender até que ponto a ética deve orientar o avanço da inteligência artificial.]`
+3. `[Compreender a expansão dos data centers e seus impactos.]`
+4. `[Compreender os impactos e o consumo hídrico decorrentes dessa expansão.]`
 
 ## Quadro de alinhamento
 
 | Elemento | Texto |
 |---|---|
-| Problema | `[preencher]` |
-| Objetivo geral | `[preencher]` |
+| Problema | `Recursos naturais` |
+| Objetivo geral | `Uso consciente e etico` |
 | Resultado esperado | `[O que o artigo deverá apresentar ao final?]` |
 
 ## Produto da etapa
