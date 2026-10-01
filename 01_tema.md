@@ -7,7 +7,7 @@ Defina um tema específico, relevante e viável para o artigo de revisão biblio
 ## Identificação
 
 - Grupo: `[preencher]`
-- Integrantes: `[Kauã Silva Mattoso , Nicolas Henrique Santana]`
+- Integrantes: `[Kauã Silva Mattoso , Nicolas Henrique Santana e Robert Santos Pereira]`
 - Data: `[24/09/2026]`
 
 ## Preenchimento
