@@ -24,14 +24,13 @@ Defina um tema específico, relevante e viável para o artigo de revisão biblio
 
 - Tema amplo: `[Sustentabilidade e tecnologia (TI Verde)]`
 - Objeto estudado: `[Uso excessivo da IA]`
-- Contexto ou aplicação: `[O uso cotidiano da IA generativa por estudantes e profissionais, no ambiente acadêmico e de trabalho]`
-- Aspecto que será analisado: `[Os impactos ambientais e sociocognitivos (dependência tecnológica e redução do pensamento crítico) decorrentes do uso excessivo da IA]`
+- Contexto ou aplicação: `[O uso cotidiano da IA, no ambiente acadêmico e de trabalho]`
+- Aspecto que será analisado: `[Os impactos ambientais decorrentes do uso excessivo da IA]`
 - O que ficará fora do estudo: `[Aspectos técnicos de desenvolvimento e treinamento de modelos de IA]`
 
 ### Justificativa
 
-`[O crescimento acelerado do uso de inteligência artificial no cotidiano acadêmico e profissional traz consigo efeitos colaterais pouco discutidos, como o elevado consumo energético e hídrico dos data centers necessários para seu funcionamento, além de impactos sociocognitivos relacionados à dependência tecnológica excessiva. Compreender essas consequências é fundamental para que profissionais de TI adotem práticas mais sustentáveis e conscientes.]`
-
+`[O crescimento acelerado do uso de inteligência artificial no cotidiano traz consigo efeitos colaterais pouco discutidos, como o elevado consumo energético e hídrico dos data centers necessários para seu funcionamento, 
 ### Viabilidade
 
 - Há artigos científicos disponíveis? `[Sim]`
