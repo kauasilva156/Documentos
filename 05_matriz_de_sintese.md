@@ -27,10 +27,10 @@ Compare os artigos e organize a revisão por temas ou eixos. Não produza apenas
 
 ### Eixo 2
 
-* Ideia principal: `Os Efeitos colaterais do uso excessivo da tecnologia no meio ambiente.`
-* Evidências que serão usadas: `[preencher]`
-* Comparação entre estudos: `[preencher]`
-* Ligação com o problema: `[preencher]`
+* Ideia principal: `A expansão da inteligência artificial aumenta a demanda por eletricidade dos data centers e pode contribuir para o crescimento das emissões relacionadas à geração dessa energia.`
+* Evidências que serão usadas: `Dados sobre o consumo de eletricidade dos data centers, projeções de crescimento da demanda energética e estimativas de emissões relacionadas ao consumo de eletricidade.`
+* Comparação entre estudos: `O relatório evidencia que os impactos ambientais da inteligência artificial não estão limitados ao funcionamento dos sistemas computacionais, mas também estão relacionados à infraestrutura necessária para treiná-los e utilizá-los, especialmente os data centers e o fornecimento de eletricidade.`
+* Ligação com o problema: `A análise dos impactos energéticos e ambientais da inteligência artificial permite compreender os efeitos do crescimento da tecnologia sobre o meio ambiente e reforça a necessidade de buscar formas mais eficientes e sustentáveis de produzir e utilizar recursos computacionais.`
 
 ## Síntese crítica provisória
 
