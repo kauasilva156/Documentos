@@ -21,13 +21,13 @@ Compare os artigos e organize a revisão por temas ou eixos. Não produza apenas
 ### Eixo 1
 
 * Ideia principal: `Sustentabilidade e tecnologia (TI Verde)`
-* Evidências que serão usadas: `Os Efeitos colaterais do uso excessivo da tecnologia no meio ambiente.`
+* Evidências que serão usadas: ``
 * Comparação entre estudos: `[preencher]`
 * Ligação com o problema: `[preencher]`
 
 ### Eixo 2
 
-* Ideia principal: `[preencher]`
+* Ideia principal: `Os Efeitos colaterais do uso excessivo da tecnologia no meio ambiente.`
 * Evidências que serão usadas: `[preencher]`
 * Comparação entre estudos: `[preencher]`
 * Ligação com o problema: `[preencher]`
