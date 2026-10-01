@@ -10,7 +10,7 @@ Transforme o tema em uma pergunta clara, específica e respondível por meio da 
 
 ## Pergunta de pesquisa
 
-`[Onde vamos parar com o uso excessivo de componentes para alimentar database de IA]`
+`[Até onde pode chegar o uso de componentes para IA?]`
 
 ## Verificação
 
