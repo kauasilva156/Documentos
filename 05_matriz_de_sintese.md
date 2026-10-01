@@ -14,7 +14,7 @@ Compare os artigos e organize a revisão por temas ou eixos. Não produza apenas
 
 |Eixo|Artigos relacionados|Convergências|Divergências|Limitações|Lacunas|
 |-|-|-|-|-|-|
-|`Sustentabilidade e tecnologia (TI Verde)`|`[autores/anos]`|`[preencher]`|`[preencher]`|`[preencher]`|`[preencher]`|
+|`Sustentabilidade e tecnologia (TI Verde)`|`IEA (2025) – Energy and AI`|`A IA pode aumentar a eficiência energética e otimizar sistemas de energia`|`O uso da IA também aumenta a demanda por eletricidade`|`O relatório trabalha com projeções e cenários futuros, sujeitos a incertezas`|`Necessidade de ampliar estudos sobre formas de reduzir o consumo energético associado à IA`|
 
 ## Roteiro da revisão da literatura
 
