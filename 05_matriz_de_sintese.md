@@ -8,7 +8,7 @@ Compare os artigos e organize a revisão por temas ou eixos. Não produza apenas
 
 1. `Sustentabilidade e tecnologia (TI Verde)`
 2. `Os Efeitos colaterais do uso excessivo da tecnologia no meio ambiente.`
-3. `[Eixo ou subtema 3, se necessário]`
+
 
 ## Matriz de síntese
 
