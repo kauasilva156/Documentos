@@ -28,18 +28,15 @@ Nesse contexto, surge uma questão-chave: em que medida é legítimo (ou ético)
 
 ## Metodologia
 
-`## Metodologia
+A pesquisa seguirá revisões de literatura destinadas a lidar melhor com os impactos ambientais decorrentes da expansão da inteligência artificial, principalmente o consumo de energia e água e as emissões de gases de efeito estufa associadas à distribuição e ao desenvolvimento de data centers nas comunidades próximas.
 
-Este trabalho será desenvolvido a partir de uma revisão da literatura, com o objetivo de compreender melhor os impactos ambientais causados pelo crescimento da inteligência artificial, principalmente em relação ao consumo de energia e água, às emissões de carbono e aos possíveis efeitos sobre as comunidades próximas aos data centers.
+Para conduzir a pesquisa, você se baseará em artigos científicos e relatórios de instituições que estudam a relação entre tecnologia e sustentabilidade. Será realizada uma busca por palavras‑chave em português e inglês também: inteligência artificia, data centers, sustentabilidade ambiental, consumo de energia consumo de água e emissões de carbono (em inglês traduzido: artificial intelligence; environmental sustainability). Esses termos serão combinados para recuperar recursos que informem diretamente sobre o tema de interesse.
 
-Para realizar a pesquisa, serão consultados artigos científicos e relatórios de instituições que estudam a relação entre tecnologia e sustentabilidade. As buscas utilizarão palavras-chave em português e inglês, como “inteligência artificial”, “data centers”, “sustentabilidade ambiental”, “consumo de energia”, “consumo de água”, “emissões de carbono”, “artificial intelligence” e “environmental sustainability”. Esses termos serão combinados para encontrar materiais que contribuam diretamente para a compreensão do tema.
+Publicações– de 2021 até a data da busca, até outubro de 2026 – os dados serão considerados fornecidos no momento da busca. Serão selecionados apenas estudos direcionados aos efeitos ambientais e sociais da hospedagem de inteligência artificial em data centers, bem como estudos com propostas para mitigar esses impactos. Você também pode utilizar um relatório de uma instituição, desde que as informações relevantes sejam recuperáveis e verificáveis.
 
-A pesquisa dará preferência a publicações de 2021 a 2026, considerando os materiais disponíveis até a data da busca. Serão selecionados estudos que discutam os impactos ambientais e sociais relacionados aos data centers utilizados pela inteligência artificial, além de pesquisas que apresentem possíveis soluções para reduzir esses impactos. Os relatórios institucionais também poderão ser utilizados, desde que apresentem informações relevantes e tenham origem verificável.
+Isso significa que você carregará dados até outubro de 2023; em seguida, durante o processo de seleção, os materiais repetidos serão excluídos e também aqueles em que não seja possível confirmar quem os escreveu ou de onde vieram, além de outros que não tenham relação direta com o assunto estudado. As publicações serão analisadas primeiro com base no título e no resumo. Se os recursos forem considerados relevantes, os documentos completos serão lidos para avaliar se realmente ajudam a atingir os objetivos do seu artigo.
 
-Durante a seleção, serão retirados os materiais repetidos, aqueles cuja autoria ou procedência não possa ser confirmada e os que não tenham relação direta com o assunto estudado. Primeiro, serão analisados os títulos e resumos das publicações. Em seguida, os materiais mais relevantes serão lidos integralmente para verificar se realmente contribuem para os objetivos do artigo.
-
-Por fim, as informações encontradas serão organizadas por temas, como consumo de energia, uso de água, emissões de carbono, impactos sociais e alternativas sustentáveis. A partir dessa organização, os estudos serão comparados para identificar pontos em comum, diferenças nos resultados e limitações das pesquisas. Dessa forma, será possível compreender melhor os desafios que acompanham o avanço da inteligência artificial e refletir sobre como o desenvolvimento tecnológico pode ocorrer de maneira mais sustentável.
-`
+Por fim, o levantamento será categorizado por temas como consumo de energia, uso de água, emissões de carbono, impactos sociais e alternativas sustentáveis. Os estudos serão comparados de acordo com a capacidade organizacional para identificar semelhanças, divergências nos resultados e limitações de pesquisa. O propósito disso será compreender melhor os problemas colocados pelo avanço da inteligência artificial e contemplar formas de o crescimento tecnológico se desenvolver em uma direção mais sustentável.
 
 ## Revisão da literatura
 
