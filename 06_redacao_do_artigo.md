@@ -60,15 +60,25 @@ Dessa forma, a literatura sugere tanto que o avanço na própria IA quanto a sus
 
 ### Síntese crítica
 
-`Apresente tendências, convergências, divergências e lacunas.`
+
+A revisão de estudos indica que a inteligência artificial oferece grandes vantagens à sociedade, mas o crescimento da tecnologia também aumenta as preocupações quanto ao consumo de recursos naturais. As pesquisas analisadas mostram que os data centers utilizam energia (em grandes quantidades) para resfriar seus equipamentos e, se determinadas condições forem atendidas, também água. Isso evidencia que o avanço tecnológico precisa ser acompanhado por medidas de acondicionamento ou regulatórias para mitigar seus efeitos ambientais adversos.
+
+Outro fator é o impacto ambiental, que depende da infraestrutura, dos sistemas de refrigeração e das fontes de energia disponíveis. Consequentemente, a comparabilidade de todos os data centers quanto à sua natureza sustentável não está garantida. Embora mudanças em direção a fontes renováveis e melhorias nos equipamentos possam aprimorar a situação, elas precisam ser avaliadas com base nas condições de cada região.
+
+Deve-se também considerar os impactos sobre as comunidades próximas a essas instalações, especialmente em locais onde há competição pelo uso de recursos naturais ou pressão sobre a infraestrutura local. Porém, para compreender a magnitude desses impactos, é necessário realizar, em nível local, levantamentos que permitam obter dados sociais e ambientais mais confiáveis e precisos.
+
+Assim, em vez de tentar impedir totalmente a criação de inteligência artificial, a questão real é torná-la o mais responsável possível. A literatura enfatiza que a combinação de inovação tecnológica, planos de eficiência energética e planejamento ambiental sustentável, bem como políticas públicas, é crucial. Ainda assim, são necessárias mais pesquisas para avaliar os efeitos de longo prazo e se as soluções implementadas conseguem atender à demanda continuamente crescente por processamento de dados.
 
 ## Considerações finais
 
-`[Responda ao problema, interprete os achados, destaque avanços e limitações e indique implicações futuras específicas.]`
+A IA é benéfica para a sociedade, mas à medida que ela cresce em escala, consome cada vez mais energia e água de centros de dados. São necessárias tecnologias mais eficientes, energia renovável e políticas ambientais para minimizar esses impactos. A conclusão é que a inovação tecnológica deve sempre atender às exigências de sustentabilidade, mantendo a preservação dos recursos naturais em primeiro plano. O estudo é limitado pelas fontes consultadas, e os impactos ambientais localizados precisam de mais investigação.`
 
 ## Resumo
 
-`[Escreva por último: contexto breve, objetivo, método, principais achados e conclusão.]`
+O aumento da inteligência artificial oferece benefícios no âmbito tecnológico; no entanto, acarreta uma carga adicional de centros de dados, elevando o consumo de energia e água. O objetivo deste artigo é explorar os desafios, sob a perspectiva ambiental, que prevalecem com esse crescimento. Para isso, é utilizada uma revisão da literatura baseada em artigos científicos e relatórios institucionais. Esses achados dão ênfase significativa à eficiência energética, aos recursos renováveis e ao consumo sustentável dos recursos naturais. Conclusão: O desenvolvimento da Inteligência Artificial deve ser associado à sustentabilidade ambiental.
+
+**Palavras-chave:** Inteligência artificial; Sustentabilidade; Data centers.
+]`
 
 ## Referências
 
