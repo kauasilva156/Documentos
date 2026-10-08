@@ -28,50 +28,31 @@ Nesse contexto, surge uma questão-chave: em que medida é legítimo (ou ético)
 
 ## Metodologia
 
-A pesquisa seguirá revisões de literatura destinadas a lidar melhor com os impactos ambientais decorrentes da expansão da inteligência artificial, principalmente o consumo de energia e água e as emissões de gases de efeito estufa associadas à distribuição e ao desenvolvimento de data centers nas comunidades próximas.
+Métodos: A pesquisa será conduzida por meio de uma revisão sistemática da literatura, com base em dados de artigos científicos e relatórios institucionais. Ela se baseará em fontes acadêmicas e institucionais, utilizando buscas em português e inglês para termos como “inteligência artificial”, “artificial intelligence”, “centros de dados” (data centers), “consumo de energia” (energy consumption), “consumo de água” (water consumption) e sustentabilidade ambiental.
 
-Para conduzir a pesquisa, você se baseará em artigos científicos e relatórios de instituições que estudam a relação entre tecnologia e sustentabilidade. Será realizada uma busca por palavras‑chave em português e inglês também: inteligência artificia, data centers, sustentabilidade ambiental, consumo de energia consumo de água e emissões de carbono (em inglês traduzido: artificial intelligence; environmental sustainability). Esses termos serão combinados para recuperar recursos que informem diretamente sobre o tema de interesse.
-
-Publicações– de 2021 até a data da busca, até outubro de 2026 – os dados serão considerados fornecidos no momento da busca. Serão selecionados apenas estudos direcionados aos efeitos ambientais e sociais da hospedagem de inteligência artificial em data centers, bem como estudos com propostas para mitigar esses impactos. Você também pode utilizar um relatório de uma instituição, desde que as informações relevantes sejam recuperáveis e verificáveis.
-
-Isso significa que você carregará dados até outubro de 2023; em seguida, durante o processo de seleção, os materiais repetidos serão excluídos e também aqueles em que não seja possível confirmar quem os escreveu ou de onde vieram, além de outros que não tenham relação direta com o assunto estudado. As publicações serão analisadas primeiro com base no título e no resumo. Se os recursos forem considerados relevantes, os documentos completos serão lidos para avaliar se realmente ajudam a atingir os objetivos do seu artigo.
-
-Por fim, o levantamento será categorizado por temas como consumo de energia, uso de água, emissões de carbono, impactos sociais e alternativas sustentáveis. Os estudos serão comparados de acordo com a capacidade organizacional para identificar semelhanças, divergências nos resultados e limitações de pesquisa. O propósito disso será compreender melhor os problemas colocados pelo avanço da inteligência artificial e contemplar formas de o crescimento tecnológico se desenvolver em uma direção mais sustentável.
+Apesar disso, você considerará artigos publicados entre 2021 e outubro de 2026, desde que o artigo esteja prontamente disponível no momento da sua pesquisa. Qualquer material duplicado, material verificável ou que não se relacione diretamente ao tema será ignorado. Em seguida, será realizada uma análise temática e comparativa com base nos impactos ambientais, nos resultados obtidos e nas alternativas sustentáveis propostas.
 
 ## Revisão da literatura
 
-### `[O crescimento da inteligência artificial e seus impactos ambientais]`
+### `[Crescimento da IA e impactos ambientais]`
 
-Com o crescimento da inteligência artificial (IA) também surge uma necessidade cada vez maior de data centers, ou instalações físicas que processam e armazenam grandes volumes de dados. Isso representou 415 TWh de eletricidade consumida em 2024, o que equivalia a aproximadamente 1,5% do consumo global de energia elétrica do setor de eee (Agência Internacional de Energia, IEA, 2025). O relatório também destaca que o uso crescente de inteligência artificial exige servidores de alto desempenho e sistemas de refrigeração.
+Os data centers realizam o processamento de informações e, à medida que a inteligência artificial se expande, a necessidade de data centers continuará a crescer. Em 2024, as instalações consumiram aproximadamente 415 terawatts-hora (~1,5% do consumo global), segundo a Agência Internacional de Energia (IEA, 2025).
 
-Desafios de Sustentabilidade Devido ao consumo de água, além de energia. O estudo a seguir The water use of data center workloads: A review and assessment of key determinants (2025) revela que a eficiência dos servidores, os sistemas de refrigeração, a utilização dos equipamentos e as condições climáticas são fatores importantes na determinação da quantidade de água consumida em data centers. O estudo destaca que, como a tecnologia e as regiões onde os data centers estão localizados diferem, também diferem seus impactos ambientais.
- 
-Estas publicações revelam que a questão não está tanto no volume de recursos consumidos, mas na forma como eles são utilizados. Embora o relatório da IEA seja otimista quanto à demanda global de energia, este estudo sobre o uso da água aprofunda especificidades operacionais que afetam a eficiência das instalações. Assim, qualquer compreensão dos impactos da inteligência artificial deve considerar, de um lado, o crescimento global e, do outro, a especificidade local.
+O consumo de água, porém, além de energia, é outro problema. Estudos sobre as operações em data centers mostram que o resfriamento, a configuração dos equipamentos e as condições climáticas contribuem para a utilização de recursos pelos data centers. Como resultado, os impactos ambientais variam dependendo do tipo de tecnologia e da localização das instalações associadas.
 
-### `[Sustentabilidade e alternativas para reduzir os impactos]`
+### `[Alternativas sustentáveis]`
 
-Diante desse panorama, diversos estudos exploram diferentes opções para tornar a infraestrutura de IA mais sustentável. Chien et al. (2026), em uma revisão publicada no periódico Nature Reviews Clean Technology, tratam de estratégias para a eficiência dos equipamentos, o uso de energia renovável e o gerenciamento do uso de recursos em data centers. De acordo com os autores, as soluções devem considerar simultaneamente o consumo de água, as emissões de carbono e a demanda de energia.
-
-Um dos principais problemas é que, quando se reduz um impacto ambiental, não se segue necessariamente que todos os outros também diminuirão. A tecnologia de resfriamento reduz o uso de água, mas leva a ganhos adicionais de demanda energética. Assim, a avaliação de sustentabilidade não pode se concentrar apenas em um indicador único; é preciso abordar a operação completa da infraestrutura.
-
-Sintetizando, os estudos mostram que a eficiência tecnológica é promissora, mas deve caminhar junto com o planejamento e a gestão ambiental. Podemos reduzir impactos por meio de medidas como resfriamento mais rápido, equipamentos mais eficientes ou a substituição de fontes de base por energias renováveis. No entanto, a viabilidade dessas alternativas é determinada pelo contexto específico de cada instalação e pelo fornecimento disponível na região.
-
-Dessa forma, a literatura sugere tanto que o avanço na própria IA quanto a sustentabilidade não são necessariamente objetivos conflitantes. Ainda assim, para conciliá-los, é preciso ponderar o custo ambiental adicional da infraestrutura em comparação com análises de soluções existentes e seu impacto nas comunidades e nos recursos naturais.
+Algumas dessas alternativas para mitigar esses impactos são fontes renováveis, eficiência energética e sistemas de refrigeração eficazes. Mas reduzir o consumo de um recurso não significa reduzir todos os impactos ambientais. É por isso que você precisa analisar o uso de energia, o uso de água e as emissões de carbono em conjunto.
 
 ### Síntese crítica
 
+A literatura sobre IA disponível até agora sugere que, embora existam vantagens significativas provenientes da inteligência artificial, seu crescimento precisa ser considerado, de forma cada vez maior, juntamente com o aumento do consumo de recursos naturais. Tudo parece indicar que os data centers precisam ser tornados mais eficientes em termos de energia, mas os resultados variam conforme as condições locais e a infraestrutura.
 
-A revisão de estudos indica que a inteligência artificial oferece grandes vantagens à sociedade, mas o crescimento da tecnologia também aumenta as preocupações quanto ao consumo de recursos naturais. As pesquisas analisadas mostram que os data centers utilizam energia (em grandes quantidades) para resfriar seus equipamentos e, se determinadas condições forem atendidas, também água. Isso evidencia que o avanço tecnológico precisa ser acompanhado por medidas de acondicionamento ou regulatórias para mitigar seus efeitos ambientais adversos.
-
-Outro fator é o impacto ambiental, que depende da infraestrutura, dos sistemas de refrigeração e das fontes de energia disponíveis. Consequentemente, a comparabilidade de todos os data centers quanto à sua natureza sustentável não está garantida. Embora mudanças em direção a fontes renováveis e melhorias nos equipamentos possam aprimorar a situação, elas precisam ser avaliadas com base nas condições de cada região.
-
-Deve-se também considerar os impactos sobre as comunidades próximas a essas instalações, especialmente em locais onde há competição pelo uso de recursos naturais ou pressão sobre a infraestrutura local. Porém, para compreender a magnitude desses impactos, é necessário realizar, em nível local, levantamentos que permitam obter dados sociais e ambientais mais confiáveis e precisos.
-
-Assim, em vez de tentar impedir totalmente a criação de inteligência artificial, a questão real é torná-la o mais responsável possível. A literatura enfatiza que a combinação de inovação tecnológica, planos de eficiência energética e planejamento ambiental sustentável, bem como políticas públicas, é crucial. Ainda assim, são necessárias mais pesquisas para avaliar os efeitos de longo prazo e se as soluções implementadas conseguem atender à demanda continuamente crescente por processamento de dados.
+Outro aspecto importante a considerar são os impactos nas comunidades ao redor e, especialmente, nos recursos naturais existentes em locais onde já há um uso intenso. No entanto, são necessários mais estudos locais e de longo prazo para uma compreensão mais completa dos impactos dessas soluções.
 
 ## Considerações finais
 
-A IA é benéfica para a sociedade, mas à medida que ela cresce em escala, consome cada vez mais energia e água de centros de dados. São necessárias tecnologias mais eficientes, energia renovável e políticas ambientais para minimizar esses impactos. A conclusão é que a inovação tecnológica deve sempre atender às exigências de sustentabilidade, mantendo a preservação dos recursos naturais em primeiro plano. O estudo é limitado pelas fontes consultadas, e os impactos ambientais localizados precisam de mais investigação.`
+Conclui-se que o avanço da inteligência artificial pode contribuir para a sociedade sem ignorar a sustentabilidade. Para isso, são necessárias tecnologias eficientes, fontes renováveis e políticas ambientais adequadas. Como limitação, esta pesquisa depende das fontes consultadas, sendo importantes estudos futuros sobre os impactos ambientais locais.
 
 ## Resumo
 
