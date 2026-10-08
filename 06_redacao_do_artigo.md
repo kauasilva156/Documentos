@@ -29,22 +29,20 @@ Nesse contexto, surge uma questão-chave: em que medida é legítimo (ou ético)
 ## Metodologia
 
 A pesquisa seguirá revisões de literatura destinadas a lidar melhor com os impactos ambientais decorrentes da expansão da inteligência artificial, principalmente o consumo de energia e água e as emissões de gases de efeito estufa associadas à distribuição e ao desenvolvimento de data centers nas comunidades próximas.
-
-Para conduzir a pesquisa, você se baseará em artigos científicos e relatórios de instituições que estudam a relação entre tecnologia e sustentabilidade. Será realizada uma busca por palavras‑chave em português e inglês também: inteligência artificia, data centers, sustentabilidade ambiental, consumo de energia consumo de água e emissões de carbono (em inglês traduzido: artificial intelligence; environmental sustainability). Esses termos serão combinados para recuperar recursos que informem diretamente sobre o tema de interesse.
-
-Publicações– de 2021 até a data da busca, até outubro de 2026 – os dados serão considerados fornecidos no momento da busca. Serão selecionados apenas estudos direcionados aos efeitos ambientais e sociais da hospedagem de inteligência artificial em data centers, bem como estudos com propostas para mitigar esses impactos. Você também pode utilizar um relatório de uma instituição, desde que as informações relevantes sejam recuperáveis e verificáveis.
-
-Isso significa que você carregará dados até outubro de 2023; em seguida, durante o processo de seleção, os materiais repetidos serão excluídos e também aqueles em que não seja possível confirmar quem os escreveu ou de onde vieram, além de outros que não tenham relação direta com o assunto estudado. As publicações serão analisadas primeiro com base no título e no resumo. Se os recursos forem considerados relevantes, os documentos completos serão lidos para avaliar se realmente ajudam a atingir os objetivos do seu artigo.
-
-Por fim, o levantamento será categorizado por temas como consumo de energia, uso de água, emissões de carbono, impactos sociais e alternativas sustentáveis. Os estudos serão comparados de acordo com a capacidade organizacional para identificar semelhanças, divergências nos resultados e limitações de pesquisa. O propósito disso será compreender melhor os problemas colocados pelo avanço da inteligência artificial e contemplar formas de o crescimento tecnológico se desenvolver em uma direção mais sustentável.
+ Para conduzir a pesquisa, você se baseará em artigos científicos e relatórios de instituições que estudam a relação entre tecnologia e sustentabilidade. Será realizada uma busca por palavras‑chave em português e inglês também: inteligência artificia, data centers, sustentabilidade ambiental, consumo de energia consumo de água e emissões de carbono (em inglês traduzido: artificial intelligence; environmental sustainability). Esses termos serão combinados para recuperar recursos que informem diretamente sobre o tema de interesse.
+ Publicações– de 2021 até a data da busca, até outubro de 2026 – os dados serão considerados fornecidos no momento da busca. Serão selecionados apenas estudos direcionados aos efeitos ambientais e sociais da hospedagem de inteligência artificial em data centers, bem como estudos com propostas para mitigar esses impactos. Você também pode utilizar um relatório de uma instituição, desde que as informações relevantes sejam recuperáveis e verificáveis.
+ Isso significa que você carregará dados até outubro de 2023; em seguida, durante o processo de seleção, os materiais repetidos serão excluídos e também aqueles em que não seja possível confirmar quem os escreveu ou de onde vieram, além de outros que não tenham relação direta com o assunto estudado. As publicações serão analisadas primeiro com base no título e no resumo. Se os recursos forem considerados relevantes, os documentos completos serão lidos para avaliar se realmente ajudam a atingir os objetivos do seu artigo.
+ Por fim, o levantamento será categorizado por temas como consumo de energia, uso de água, emissões de carbono, impactos sociais e alternativas sustentáveis. Os estudos serão comparados de acordo com a capacidade organizacional para identificar semelhanças, divergências nos resultados e limitações de pesquisa. O propósito disso será compreender melhor os problemas colocados pelo avanço da inteligência artificial e contemplar formas de o crescimento tecnológico se desenvolver em uma direção mais sustentável.
 
 ## Revisão da literatura
 
-### `[Eixo 1]`
+### `[O crescimento da inteligência artificial e seus impactos ambientais]`
 
-`Compare estudos, resultados, métodos e limitações.`
+Com o crescimento da inteligência artificial (IA) também surge uma necessidade cada vez maior de data centers, ou instalações físicas que processam e armazenam grandes volumes de dados. Isso representou 415 TWh de eletricidade consumida em 2024, o que equivalia a aproximadamente 1,5% do consumo global de energia elétrica do setor de eee (Agência Internacional de Energia, IEA, 2025). O relatório também destaca que o uso crescente de inteligência artificial exige servidores de alto desempenho e sistemas de refrigeração.
+ Desafios de Sustentabilidade Devido ao consumo de água, além de energia. O estudo a seguir The water use of data center workloads: A review and assessment of key determinants (2025) revela que a eficiência dos servidores, os sistemas de refrigeração, a utilização dos equipamentos e as condições climáticas são fatores importantes na determinação da quantidade de água consumida em data centers. O estudo destaca que, como a tecnologia e as regiões onde os data centers estão localizados diferem, também diferem seus impactos ambientais.
+ Estas publicações revelam que a questão não está tanto no volume de recursos consumidos, mas na forma como eles são utilizados. Embora o relatório da IEA seja otimista quanto à demanda global de energia, este estudo sobre o uso da água aprofunda especificidades operacionais que afetam a eficiência das instalações. Assim, qualquer compreensão dos impactos da inteligência artificial deve considerar, de um lado, o crescimento global e, do outro, a especificidade local.
 
-### `[Eixo 2]`
+### `[Sustentabilidade e alternativas para reduzir os impactos]`
 
 `Compare estudos, resultados, métodos e limitações.`
 
