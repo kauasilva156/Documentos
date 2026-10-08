@@ -42,11 +42,11 @@ Obrigatoriedade de três artigos com no máximo 5 anos, ou seja, de publicação
 
 ### Contribuição para o nosso artigo
 
-`[Explique como este estudo ajuda a responder à pergunta da revisão.]`
+`[A Agência Internacional de Energia (IEA, 2025) relata as implicações do desenvolvimento e da expansão da Inteligência Artificial em centros de dados que estão pressionando o consumo global de eletricidade no seu relatório publicado: Energy and AI. A análise baseia-se em um modelo construído pela agência com contribuições de governos, empresas de tecnologia e especialistas do setor energético. Os centros de dados respondem por cerca de 415 TWh até o final de 2024 (1,5% da eletricidade global) e esse número pode mais do que dobrar ao longo de três anos até 2030! Até 2035, as emissões associadas devem permanecer em torno de 300 Mt de CO₂ (proxy impulsionada pelo clima) [36], menos de cerca de ~1,5% das emissões do setor energético, mas com aceleração rápida no crescimento. A IA é também mais uma forma que pode ajudar na eficiência em todos os níveis do setor energético, embora não crie um novo cenário climático nem resolva a nossa crise atual. Esses resultados baseiam-se em cenários e em dados extrapolados e incompatíveis sobre o uso de eletricidade em modelos comerciais.]`
 
 ### Comentário crítico
 
-`[Registre forças, fragilidades, concordâncias ou divergências.]`
+`[Relatório da AIE (2025): Fornecido por uma agência analítica, trata-se de uma fonte robusta, baseada em seus próprios dados e modelos, além de consultas com governos e o setor de tecnologia. Ela também evita tanto o alarmismo quanto a exuberância utópica sobre os efeitos ambientais da IA, ilustrando como data centers que contribuem com uma pequena porcentagem para as emissões, mas crescem rapidamente nas regiões escolhidas, podem exercer pressão local sobre as redes elétricas. No entanto, as projeções dependem de cenários (700–1.700 TWh até 2035) e se baseiam em suposições incertas; além disso, há pouca transparência sobre o uso de energia de modelos comerciais de IA. Além disso, o foco não é realmente eletricidade e emissões, mas sim muito pouco outros impactos, como o uso de água ou de recursos naturais. Consideramos a IA como uma ferramenta e não como uma solução independente, o que nos diferencia dos autores do artigo na avaliação do impacto ambiental, que eles consideram limitado — uma análise global pode deixar escapar impactos localizados.]`
 
 ### Citação literal opcional
 
