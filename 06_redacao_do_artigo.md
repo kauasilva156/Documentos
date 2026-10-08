@@ -58,7 +58,7 @@ Conclui-se que o avanço da inteligência artificial pode contribuir para a soci
 
 O aumento da inteligência artificial oferece benefícios no âmbito tecnológico; no entanto, acarreta uma carga adicional de centros de dados, elevando o consumo de energia e água. O objetivo deste artigo é explorar os desafios, sob a perspectiva ambiental, que prevalecem com esse crescimento. Para isso, é utilizada uma revisão da literatura baseada em artigos científicos e relatórios institucionais. Esses achados dão ênfase significativa à eficiência energética, aos recursos renováveis e ao consumo sustentável dos recursos naturais. Conclusão: O desenvolvimento da Inteligência Artificial deve ser associado à sustentabilidade ambiental.
 
-**Palavras-chave:** Inteligência artificial; Sustentabilidade; Data centers.]`
+**Palavras-chave:** Inteligência artificial; Data Centers; Sustentabilidade.]`
 
 ## Referências
 
