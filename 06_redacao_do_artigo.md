@@ -42,27 +42,27 @@ Por fim, o levantamento será categorizado por temas como consumo de energia, us
 
 ### `[Eixo 1]`
 
-`Compare estudos, resultados, métodos e limitações.`
+`A IEA (2025) projeta que os data centers passem de 415 TWh (2024) para cerca de 945 TWh em 2030, com emissões de cerca de 300 Mt de CO₂ em 2035, abaixo de 1,5% do setor energético. De Vries (2023) estima o consumo da IA pela oferta de servidores. Patterson et al. (2021) e Luccioni et al. (2023) calculam as emissões de modelos específicos. Todos dependem de estimativas, por falta de dados das empresas.`
 
 ### `[Eixo 2]`
 
-`Compare estudos, resultados, métodos e limitações.`
+`Li et al. (2023) mostram que a pegada hídrica da IA varia conforme local e horário. A IEA (2025) destaca a concentração geográfica dos data centers e a pressão sobre as redes locais, mas trata pouco da água. Faltam estudos empíricos sobre impactos sociais.`
 
 ### Síntese crítica
 
-`Apresente tendências, convergências, divergências e lacunas.`
+`Os estudos convergem no crescimento acelerado da demanda. Divergem quanto à gravidade: o impacto global é pequeno, mas o local é relevante. As lacunas são a falta de transparência das empresas, de estudos sobre as comunidades e de pesquisas sobre o Brasil.`
 
 ## Considerações finais
 
-`[Responda ao problema, interprete os achados, destaque avanços e limitações e indique implicações futuras específicas.]`
+`O avanço da IA é legítimo se seus custos ambientais forem medidos, divulgados e mitigados. As emissões ainda são pequenas, mas crescem e se concentram em poucos territórios. A revisão se limitou a poucas fontes e estimativas. Pesquisas futuras devem exigir transparência das empresas e estudar impactos locais, incluindo o Brasil.`
 
 ## Resumo
 
-`[Escreva por último: contexto breve, objetivo, método, principais achados e conclusão.]`
+`A IA depende de data centers que consomem muita energia e água. Este trabalho revisa a literatura (2021 a 2026) sobre esses impactos. A demanda elétrica deve mais que dobrar até 2030, e os efeitos são mais intensos em escala local. Conclui-se que a IA exige transparência e planejamento para ser sustentável.`
 
 ## Referências
 
-`[Liste apenas as fontes citadas, conforme o padrão solicitado.]`
+`DE VRIES, A. The growing energy footprint of artificial intelligence. Joule, v. 7, n. 10, p. 2191-2194, 2023.`
 
 ## Checklist
 
