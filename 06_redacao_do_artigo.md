@@ -28,7 +28,18 @@ Nesse contexto, surge uma questão-chave: em que medida é legítimo (ou ético)
 
 ## Metodologia
 
-`Informe o tipo de revisão, bases, estratégias de busca, período, critérios, triagem e forma de análise.`
+`## Metodologia
+
+Este trabalho será desenvolvido a partir de uma revisão da literatura, com o objetivo de compreender melhor os impactos ambientais causados pelo crescimento da inteligência artificial, principalmente em relação ao consumo de energia e água, às emissões de carbono e aos possíveis efeitos sobre as comunidades próximas aos data centers.
+
+Para realizar a pesquisa, serão consultados artigos científicos e relatórios de instituições que estudam a relação entre tecnologia e sustentabilidade. As buscas utilizarão palavras-chave em português e inglês, como “inteligência artificial”, “data centers”, “sustentabilidade ambiental”, “consumo de energia”, “consumo de água”, “emissões de carbono”, “artificial intelligence” e “environmental sustainability”. Esses termos serão combinados para encontrar materiais que contribuam diretamente para a compreensão do tema.
+
+A pesquisa dará preferência a publicações de 2021 a 2026, considerando os materiais disponíveis até a data da busca. Serão selecionados estudos que discutam os impactos ambientais e sociais relacionados aos data centers utilizados pela inteligência artificial, além de pesquisas que apresentem possíveis soluções para reduzir esses impactos. Os relatórios institucionais também poderão ser utilizados, desde que apresentem informações relevantes e tenham origem verificável.
+
+Durante a seleção, serão retirados os materiais repetidos, aqueles cuja autoria ou procedência não possa ser confirmada e os que não tenham relação direta com o assunto estudado. Primeiro, serão analisados os títulos e resumos das publicações. Em seguida, os materiais mais relevantes serão lidos integralmente para verificar se realmente contribuem para os objetivos do artigo.
+
+Por fim, as informações encontradas serão organizadas por temas, como consumo de energia, uso de água, emissões de carbono, impactos sociais e alternativas sustentáveis. A partir dessa organização, os estudos serão comparados para identificar pontos em comum, diferenças nos resultados e limitações das pesquisas. Dessa forma, será possível compreender melhor os desafios que acompanham o avanço da inteligência artificial e refletir sobre como o desenvolvimento tecnológico pode ocorrer de maneira mais sustentável.
+`
 
 ## Revisão da literatura
 
