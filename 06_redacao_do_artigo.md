@@ -62,7 +62,7 @@ O aumento da inteligência artificial oferece benefícios no âmbito tecnológic
 
 ## Referências
 
-`[IEA (2025) – Energy and AI]`
+`IEA (2025) – Energy and AI`
 
 ## Checklist
 
