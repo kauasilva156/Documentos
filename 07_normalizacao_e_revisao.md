@@ -6,7 +6,7 @@ Revise o conteúdo, as citações, as referências e a formatação antes da ent
 
 ## Identificação
 
-* Título do artigo: `[preencher]`
+* Título do artigo: `[Sustentabilidade e tecnologia (TI Verde)]`
 * Versão revisada: `[número]`
 * Data: `[dd/mm/aaaa]`
 * Responsável pela conferência final: `[preencher]`
